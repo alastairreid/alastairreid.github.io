@@ -1,5 +1,9 @@
 .*.swp
 .*.*un~
 .sass-cache
+.bundle
+Gemfile.lock
+.jekyll-metadata
+vendor
 _site
 _data/patents2.bib
