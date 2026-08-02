@@ -35,11 +35,11 @@ pages.
 
   - Connecting MLIR with ISA specifications (WIP)
     <br>
-    [ACM Europe School on MLIR 2026](https://mlir-school.github.io/summer-2026/)
+    Poster at [ACM Europe School on MLIR 2026](https://mlir-school.github.io/summer-2026/)
     <br>
     10 - 14 August 2026, A Coruña, Spain
     <br>
-    [[pdf]](talks/connecting-MLIR-and-ISA-MLIR-2026-08-10.pdf)
+    [[pdf]](talks/connecting-MLIR-and-ISA-MLIR-2026-08-10.pdf) (A0 paper size)
 
   - Goals of a modern ISA specification
     <br>
