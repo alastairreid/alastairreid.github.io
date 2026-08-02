@@ -33,6 +33,14 @@ pages.
 
 <h3>Specifications</h3>
 
+  - Connecting MLIR with ISA specifications (WIP)
+    <br>
+    [ACM Europe School on MLIR 2026](https://mlir-school.github.io/summer-2026/)
+    <br>
+    10 - 14 August 2026, A Coruña, Spain
+    <br>
+    [[pdf]](talks/connecting-MLIR-and-ISA-MLIR-2026-08-10.pdf)
+
   - Goals of a modern ISA specification
     <br>
     [Programming Languages for Architecture (PLARCH)](https://pldi23.sigplan.org/home/plarch-2023)
