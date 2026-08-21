@@ -35,6 +35,35 @@ pages.
 
   - Connecting MLIR with ISA specifications (WIP)
     <br>
+    Talk at [ACM Europe School on MLIR 2026](https://mlir-school.github.io/summer-2026/)
+    <br>
+    14 August 2026, A Coruña, Spain
+    <br>
+    [[pdf]](talks/mlir2026-slides.pdf)
+    <br>
+
+    What kind of MLIR do we want to generate from ISA specifications?
+    This talk captures how my thinking had evolved over the course
+    of the meeting from the ideas in the poster that I created 2 weeks before.
+
+    The ideas benefited enormously from work I did with
+    [Mathieu Fehr](https://grosser.science/team/fehr/)
+    and
+    [Sasha Lopoukhine](https://www.lopoukhine.com)
+    (both at the University of Cambridge)
+    but I think that they disagree with my conclusions a little.
+
+    Also, the "Option #2" slide near the end where I propose making types
+    into first class values might be the right idea but every detail on
+    the slide is wrong :-(
+
+    _(Note: This talk contains several gratuitious photos of solar eclipses
+    because there was a total solar eclipse during the workshop and I was
+    determined to work some photos into my talk.
+    Sadly, none of the photos are mine because my photos didn't work well.)_
+
+  - Connecting MLIR with ISA specifications (WIP)
+    <br>
     Poster at [ACM Europe School on MLIR 2026](https://mlir-school.github.io/summer-2026/)
     <br>
     10 - 14 August 2026, A Coruña, Spain
