@@ -26,6 +26,9 @@ If I find gaps where the state of the art does not solve the full problem, I inv
 ## Intel (2021--present)
 
 I am working on formal ISA specifications of the x86 architecture.
+I designed a new specification language to [balance precision and readability](https://intellabs.github.io/isa-tools/2026/06/27/designing-a-language-for-readability.html),
+and released [a compiler for the language](https://github.com/IntelLabs/isa-tools).
+A [preview of the specification](https://intel.github.io/SDM/sdm.html) was released in August 2026.
 
 
 ## Google (2019--2021)
